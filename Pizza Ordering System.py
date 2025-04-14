@@ -1,5 +1,5 @@
-#PROJECT 3
-
+#PROJECT 3 
+#DOWNLOAD INCLUDED IMAGE FILE FOR CODE TO RUN PROPERLY
 from tkinter import *
 from tkinter import messagebox, ttk
 
@@ -188,3 +188,5 @@ submit.grid(row=10, column=2, sticky=W)
 
 
 window.mainloop()
+
+
